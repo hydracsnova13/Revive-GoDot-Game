@@ -13,8 +13,9 @@
   - ```git init```
   - ```git remote add origin https://github.com/hydracsnova13/Revive-GoDot-Game.git```
   - ```git pull origin main --allow-unrelated-histories```
+  - ```git checkout -b <branch name>```
   - ```git add .```
-  - ```git commit -m "Creating basic setup for godot project"```
-  - ```git push -u origin main```
+  - ```git commit -m "<commit message>"```
+  - ```git push -u origin <branch name>```
   - 
 
