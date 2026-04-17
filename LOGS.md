@@ -11,9 +11,10 @@
   - scenes, actors, levels, ui, scripts, art, data
 - Preapared Git Version Control for Project
   - ```git init```
+  - ```git remote add origin https://github.com/hydracsnova13/Revive-GoDot-Game.git```
+  - ```git pull origin main --allow-unrelated-histories```
   - ```git add .```
   - ```git commit -m "Creating basic setup for godot project"```
-  - ```git remote add origin https://github.com/hydracsnova13/Revive-GoDot-Game.git```
   - ```git push -u origin main```
   - 
 
