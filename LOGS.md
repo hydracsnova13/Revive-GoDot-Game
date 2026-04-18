@@ -17,5 +17,16 @@
   - ```git add .```
   - ```git commit -m "<commit message>"```
   - ```git push -u origin <branch name>```
-  - 
+
+# Day 2
+
+- Added Prod and Dev setup for the project, added files:
+  - scenes -> app, dev, shared
+  - levels -> blockouts, prod
+- Created Main scene in prod(app): scenes -> app -> main_prod.tscn
+- Set main_prod.tscn as Main Scene for game
+  - Project -> Project Settings -> Application -> Run; set it to "res://scenes/app/main_prod.tscn"
+- Setup Dev environment:
+  - Save dev_lab.tscn in "res://scenes/dev/dev_lab.tscn"
+  - Created directories: cameraMarkers, spawnPoints, testObjects, UI, world
 
