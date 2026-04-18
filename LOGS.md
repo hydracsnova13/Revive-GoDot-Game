@@ -29,4 +29,10 @@
 - Setup Dev environment:
   - Save dev_lab.tscn in "res://scenes/dev/dev_lab.tscn"
   - Created directories: cameraMarkers, spawnPoints, testObjects, UI, world
+- git commands ran:
+  - ```git add .```
+  - ```git commit -m "<commit message>"```
+  - ```git pull origin dev```
+  - ```git push origin dev```
+
 
